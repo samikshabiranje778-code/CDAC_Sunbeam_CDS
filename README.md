@@ -8,8 +8,7 @@ This repository contains my **20-day C Programming & Data Structures** training 
 
 ## 📂 Repository Contents
 
-📖 **Notes**
-- Daily lecture notes covering C Programming and Data Structures.
+
 
 ❓ **Questions**
 - Practice questions and problem sets discussed during the training.
