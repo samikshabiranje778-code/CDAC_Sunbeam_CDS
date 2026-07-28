@@ -2,7 +2,7 @@
 
 Welcome to my learning repository! 🚀
 
-This repository contains my **20-day C Programming & Data Structures** training materials completed at **C-DAC SunBeam Pune**. It includes notes, assignments, question sets, and practice programs that helped me strengthen my programming fundamentals and problem-solving skills.
+This repository contains my **20-day C Programming & Data Structures** training materials completed at **C-DAC SunBeam Pune**. It includes  assignments, question sets, and practice programs that helped me strengthen my programming fundamentals and problem-solving skills.
 
 ---
 
